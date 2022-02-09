@@ -1,0 +1,68 @@
+.listeMessages{
+    width: 20%;
+    height: 1000px;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-width: thin;
+    background-color: #dedede;
+    float: left;
+}
+
+.eachMess{
+    padding: 2px;
+    border-bottom-style: solid;
+    border-width: thin;
+}
+
+.messageDetails{
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.detailsMessages{
+    display: inline-block;
+}
+.infoMessage{
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.eachMessbis{
+    width: 833px;
+    padding: 2px;
+    border-bottom-style: solid;
+    border-width: thin;
+}
+
+.rajouterbutton{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3px;
+    margin-top: 3px;
+}
+
+#addContactPlus{
+    width: 80px;
+    height: 65px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.ajouterText{
+    font-size: 16px;
+}
+
+.ajouterTextBox{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 3px;
+    padding: 3px;
+}
+
+
+

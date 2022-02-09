@@ -1,0 +1,88 @@
+/*fixe*/
+body{
+	height: 100%;
+  margin:0%;
+  width: 100%;
+}
+
+/*page index*/
+.whole{
+	background-color: #53838c;
+	width: 100%;
+}
+
+.logoname{
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: 0%;
+  font-family: 'Asap Condensed', sans-serif;
+}
+
+.logo{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  margin-top: 2px;
+  margin-bottom: 15px;
+}
+
+.logInSignUp{
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-bottom-style: solid;
+}
+
+.hOne{
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: bolder;
+}
+
+label{
+  display: block;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
+
+.textesaisi{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  height: 23px;
+}
+
+.submitButton{
+  width: 30%;
+  background-color: #00ADEF;
+  color: white;
+  padding: 10px 15px;
+  display: block;
+  margin-right: auto;
+  margin-left:  auto;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  border: none;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.cliquezici{
+  display: block;
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: bolder;
+  margin-top: 0px;
+}
+
+.textcompte{
+  font-size: 20px;
+  text-align: center;
+}
+
